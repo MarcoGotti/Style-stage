@@ -12,16 +12,17 @@ body{
 
 /* header */
 .triangle-red{
+    font-size: 30px;
     color: #d3a4b7;
 }
 
 .triangle-blue{
+    font-size: 30px;
     color: #9597fa;
     margin-top: 10px;
 }
 /* main */
-.title{
-    
+.title{    
     font-size: 90px;
     font-weight: 500;
     color: blue;
