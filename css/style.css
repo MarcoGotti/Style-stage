@@ -22,15 +22,18 @@ body{
 /* main */
 .title{
     
-    font-size: 80px;
+    font-size: 90px;
     font-weight: 500;
     color: blue;
     border: 15px solid blue;
-    width: 650px;
+    width: 620px;
     margin: auto;
     margin-top: 50px;
     padding: 50px;
+    box-shadow: 15px 15px #d42257;
 }
+
+/* footer */
 
 .text{
     font-size: 50px;
@@ -39,5 +42,11 @@ body{
     margin: auto;
     line-height: 50px;
     color: #d42257;
-    padding-top: 50px;
+    padding-top: 60px;
+}
+
+.site{
+    color: #412d86;
+    font-size: 30px;
+    margin-top: 30px;
 }
